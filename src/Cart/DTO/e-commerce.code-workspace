@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../../CourseWebsite/Courses/Symfony"
+		},
+		{
+			"path": "../../../../e-commerce-main/e-commerce-main"
+		}
+	],
+	"settings": {}
+}
